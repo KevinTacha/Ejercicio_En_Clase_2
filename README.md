@@ -1,6 +1,10 @@
 # Ejercicio_En_Clase_2
 Entrega para 29 marzo 2026
 ---
+
+LINK DE ESTE REPOSITORIO: https://github.com/KevinTacha/Ejercicio_En_Clase_2.git
+
+---
 # Informe de Laboratorio - Sistemas Digitales con Arduino
 **Presentado por:** Kevin Alejandro Tacha Herrera & Karol Vanessa Rojas Gil  
 **Herramienta de simulación:** [Tinkercad](https://www.tinkercad.com)
