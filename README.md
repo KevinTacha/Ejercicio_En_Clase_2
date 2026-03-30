@@ -324,6 +324,6 @@ void loop()
 ### Imagen del circuito
 
 <p align="center">
-<img src="imagenes/creadores.jpg" width="500">
+<img src="imagenes/imagen3.png" width="500">
 <p/>
 
