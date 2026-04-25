@@ -332,6 +332,5 @@ void loop()
 <p/>
 
 ---
-<p align="center">
-<vid src="imagenes/video1.mp4" width="500">
-<p/>
+
+
